@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FarrelJ
-- 👀 I’m interested in Data Analitcs
+- 👀 I’m interested in Data Analitycs
 - 🌱 I’m currently study on Petra Christian University
 - 📫 How to reach me ig:farreljuanda 
 
