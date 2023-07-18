@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FarrelJ
-- 👀 I’m interested in Data Analitycs
-- 🌱 I’m currently study on Petra Christian University
+- 👋 Hi, I’m Albertus Farrel Juanda, you can call me Farrel
+- 👀 I’m interested in Data Science and Analytics
+- 🌱 I graduated from Petra Christian University on 2023
 - 📫 How to reach me ig:farreljuanda 
 
 <!---
